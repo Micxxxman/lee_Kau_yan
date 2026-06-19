@@ -1,0 +1,126 @@
+Id;Default
+525; IP adress
+178;%0.3f
+249;%i
+135;%s
+41;29 °C
+999;a:
+421;AC
+826;Add water
+489;Auto
+321;B
+429;BLUE
+51;call mqtt server
+392;Change Sensor ID
+251;Chat
+109;Chat name:
+449;Chater
+507;check
+673;Close
+792;CLOUD
+907;Configuration
+67;Count:
+918;d:
+448;EC
+225;Encrypted
+454;ERROR
+795;Error flag:
+160;FAN
+372;FAN_1
+871;FAN_2
+571;Farm66
+967;Go Online
+362;Green
+729;h:
+97;Home
+637;Hour
+763;HP
+740;Humidity:46%
+267;ID
+209;infred
+848;IO
+813;IP
+265;IP Address
+139;IP Address:
+890;Irrigation 
+1114;Irrigation freq
+581;Irrigation frequency
+266;Irrigation period
+411;layout
+842;LAYOUT
+619;LED
+548;LED Control
+105;LED_1
+1098;LED_2
+714;LED_3
+1049;LED_4
+821;LED_5
+390;light intensity
+533;Manual test
+1028;Maunal test
+440;Message
+845;message recevice
+499;message send
+133;Minute
+868;NAME
+469;n_pump_3
+984;n_pump_4
+280;ObjectID:
+617;Parse
+506;PLC Chat Client
+284;PLC Chat Server
+240;Port
+594;Port:
+287;Pressurize
+453;PUMP
+687;PUMP 
+282;PUMP and AIR PUMP
+895;PUMP Control
+913;pump10
+572;pump9
+137;PUMP_1
+749;PUMP_2
+316;PUMP_3
+119;PUMP_4
+606;PUMP_5
+823;PUMP_6
+167;PUMP_7
+816;PUMP_8
+100;PUMP_9
+1021;R
+400;Read Sample
+164;RED
+791;Reset
+857;RUNNING HOUSE
+901;SAVE
+689;Save
+889;Send
+120;SEND
+887;SET MOD
+707;start
+26;Start
+208;START FAN Frq
+483;Time off
+908;Time on
+682;Timestamp:
+526;Turn on 
+1008;Ultrasonic
+118;UV
+662;VALVE
+691;valve
+231;VALVE_2
+113;Version:
+85;W
+13;w/r:
+830;WATER
+110;WATER LEVE　
+872;Water Quality
+699;WATER TEMPERATURE 　
+769;WHITE
+24;x:
+628;y:
+939;z:
+25;ZOOM
+640;加壓
+655;加水
+522;超聲波霧化器
